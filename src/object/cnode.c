@@ -17,7 +17,7 @@
 #include <machine/io.h>
 #include <object/structures.h>
 #include <object/objecttype.h>
-#include <include/object/cnode.h>
+#include <object/cnode.h>
 #include <object/interrupt.h>
 #include <object/untyped.h>
 #include <kernel/cspace.h>
